@@ -4,7 +4,7 @@
 angular
     .module('myApp')
     .component('items', {
-        templateUrl: '/components/items/items.html',
+        templateUrl: 'components/items/items.html',
         controller: ItemsController
     });
 

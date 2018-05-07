@@ -4,7 +4,7 @@
 angular
     .module('myApp')
     .component('leftBar', {
-        templateUrl: '/components/left-bar/left-bar.html'
+        templateUrl: 'components/left-bar/left-bar.html'
     });
 
 
